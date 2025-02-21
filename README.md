@@ -13,15 +13,15 @@ FocusOnToday is a website designed to help users plan their daily goals and prov
 - **Storage**: JavaScript Local Storage
 
 ## How to Use
-1. Open the website.
+1. Open the website. https://aniket3s.github.io/Focus-on-Today/
 2. Enter your daily goals.
 3. Track your progress and stay motivated.
 
 ## Screenshot
-![Screenshot 2025-02-21 235413](https://github.com/user-attachments/assets/e4c77163-2813-4139-8174-ddc792412f24)
-![Screenshot 2025-02-21 235542](https://github.com/user-attachments/assets/5f9d798c-b23f-4be5-91a0-88bb7562aae7)
-![Screenshot 2025-02-21 235555](https://github.com/user-attachments/assets/0f1b4d4c-52ef-4431-9bd6-ebc8ad163a99)
+
+![Screenshot 2025-02-22 002504](https://github.com/user-attachments/assets/871cad54-5495-44b6-abd3-ba07353c0b6d)
 
 
+![Screenshot 2025-02-22 002530](https://github.com/user-attachments/assets/d89a03d6-4473-417e-b625-55f7dbfd414d)
 
 
